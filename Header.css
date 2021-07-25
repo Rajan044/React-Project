@@ -1,0 +1,192 @@
+body{width:100%;margin: 0%;}
+.cont1{background-image: url("https://rewy-gatsby.envytheme.com/static/banner-bg-2cdf97d16a302dfba382ada7daff6a6c.png");
+    background-repeat: no-repeat;background-size: cover;}
+    .cont1 img{float: right;padding-top: 10em;}
+.subcont1{padding-left: 10em;
+text-align:left;
+height: 45em;padding-top: 15em;
+}
+.cont1 h1{color: black;font-size: 55px;font-weight: bolder;}
+.cont1 p{font-size: 20px;font-weight: bold;color:darksalmon;}
+.cont2{
+text-align: center;font-size: 30px;color: coral;height: 13em;
+}
+.cont2 h3{color: black;}
+.cont2 p{font-size: 20px;color: darksalmon;}
+.cont3 div{float: left;width:28%;text-align:center;height: 28em;padding-left: 5em;}
+.cont3 h3{font-size: 30px;}
+.cont3 p{color:grey}
+.cont3 a{color:orangered;font-size:20px;}
+.dropbtn {
+    background-color: white;
+    color:black;
+    padding: 15px;
+    font-size: 20px;
+    border: none;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  .subnav{padding-left: 18em;}
+  
+ .dropdown{float: left;}
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: whitesmoke;
+    min-width: 160px;
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color:black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: white;color: orangered;}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+  .dropdown:hover .dropbtn {
+    color: orangered;
+  }
+  .subnav form{float:right;}
+  .navbar{background-image: url("https://rewy-gatsby.envytheme.com/static/banner-bg-2cdf97d16a302dfba382ada7daff6a6c.png");}
+ 
+  
+  .button:hover {
+    background-color: #f44336;
+    color: white;
+  }
+  .button {
+
+    border: none;
+    color:red;
+    padding: 16px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border: orangered 2px solid;
+  }
+  .subnav input {
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-repeat: no-repeat;
+    padding: 16px 32px;
+  }  
+  .dropdown form{padding-left: 200px;}
+  .subcont5{float: right;padding-right:4em;}
+  .check {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 22px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    color: lightslategray;
+  }
+  
+  /* Hide the browser's default checkbox */
+  .check input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+  }
+  .checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 35px;
+    width: 35px;
+    background-color: whitesmoke;
+  }
+  .check:hover input ~ .checkmark {
+    background-color:orangered;
+  }
+   .checkmark {
+    background-color: grey;
+  }
+  .checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+  }
+   .checkmark:after {
+    display: block;
+  }
+  .check .checkmark:after {
+    left: 10px;
+    top: 8px;
+    width: 12px;
+    height: 15px;
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    -webkit-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    transform: rotate(45deg);
+  }
+  .subcheck {float: right;width:50%;}
+  .title2{color:orangered;}
+  .sub51 h3{font-size: 50px;}
+  .sub51 p{color:darksalmon;font-size: 20px;}
+  .checkboxes{padding-top: 2em;}
+  .fa {
+    padding: 15px;
+    font-size: 20px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .footer{background-image: url("https://rewy-gatsby.envytheme.com/static/footer-map-80b0cb4fab6933f0cf7d485070e2fdd5.png");
+  background-repeat: no-repeat;background-size: cover;height:30em;padding-top: 8em}
+  .foot1{float: left;padding-left: 3em;}
+  .rows div{float: left;width: 20%;padding-right: 10px;}
+  .rows h3{font-size: 35px;}
+  .list{font-size: 20px;}
+  .list:hover{color: orangered;}
+  .cont4 h1{text-align: center;color: orangered;}
+  .foot1 p{font-size: 20px;}
+  .foot1 p a{color: orangered;}
+    
