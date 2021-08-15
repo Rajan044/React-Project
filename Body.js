@@ -112,7 +112,6 @@ export default function Body() {
 
                     </div>
                 </div>
-                <h1>Rest content was same as above thats why I didn't do it again.</h1>
             </div>
 
         </div>
